@@ -1,0 +1,43 @@
+#title {
+    font-size: 35px;
+    font-weight: bold;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#currentTurn {
+    font-size: 20px;
+    font-weight: bold;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.box {
+    background-color: orange;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: center;
+    font-size: 50px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+}
+
+#reset {
+    font-size: 15px;
+    background-color: red;
+    border-color: black;
+    border-width: 50%;
+}
